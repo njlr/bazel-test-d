@@ -1,4 +1,4 @@
-targets = "//:d"
+targets = [ "//:d" ]
 
 [[dependency]]
 package = "github.com/njlr/bazel-test-a"
